@@ -32,7 +32,7 @@ public class ProductSorter {
         List<Product> products = new ArrayList<>(Arrays.asList(
                 new Product("წიგნი", 15.9),
                 new Product("რვეული", 2.5),
-                new Product("კალამი", 4.6),
+                new Product("კალამი", 4.7),
                 new Product("ფანქარი", 1.3),
                 new Product("პენალი", 20.0)
         ));
